@@ -22,14 +22,24 @@ Ao final, o programa exibe:
 
 Para validar o funcionamento do programa, foi realizado um teste com 10 entrevistados alterando a constante:
 
+```python
 TOTAL_ENTREVISTADOS = 10
+```
 
-Após os testes, o valor foi alterado novamente para 50, conforme solicitado na atividade.
+Após os testes, o valor foi alterado novamente para 50, conforme solicitado na atividade:
+
+```python
+TOTAL_ENTREVISTADOS = 50
+```
 
 ## Como executar
 
 Para executar o programa, utilize o comando:
 
+```bash
 python pesquisa_tudoweb.py
+```
 
-Deixei tambem um arquivo em .html para testes.
+## Arquivo extra
+
+Também foi adicionado um arquivo HTML apenas como apoio visual/teste, mas a atividade principal foi desenvolvida em Python.
